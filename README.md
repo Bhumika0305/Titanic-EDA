@@ -44,9 +44,9 @@ Files used:
 
 | Model               | Accuracy |
 |--------------------|----------|
-| Logistic Regression| ~76%     |
-| Decision Tree      | ~81%     |
-| Random Forest      | ~81%     |
+| Logistic Regression|  81%     |
+| Decision Tree      |  76.53   |
+| Random Forest      |  81%     |
 
 ---
 
