@@ -65,8 +65,7 @@ The `submission.csv` file contains predicted survival values for passengers in t
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 - **Name:** Bhumika Hazra
-- **Institution:** UIT
 
