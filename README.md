@@ -1,11 +1,11 @@
 
-# 🛳 Titanic EDA + Classification
+# Titanic EDA + Classification
 
 This repository contains an Exploratory Data Analysis (EDA) and predictive modeling pipeline using the Titanic dataset from Kaggle. The objective is to analyze the dataset, extract insights, and build classification models to predict passenger survival.
 
 ---
 
-## 📊 Project Structure
+## Project Structure
 
 - `Titanic_EDA_Colab.ipynb`: Google Colab notebook with full EDA, preprocessing, visualization, model training, and evaluation.
 - `submission.csv`: Final predictions on the test set using the trained model.
@@ -13,7 +13,7 @@ This repository contains an Exploratory Data Analysis (EDA) and predictive model
 
 ---
 
-## 🔍 Dataset
+## Dataset
 
 Dataset source: [Kaggle Titanic Competition](https://www.kaggle.com/c/titanic/data)
 
@@ -24,7 +24,7 @@ Files used:
 
 ---
 
-## 🧪 Methods Used
+## Methods Used
 
 - **EDA & Visualization**
   - Survival distribution by gender and passenger class
@@ -40,7 +40,7 @@ Files used:
 
 ---
 
-## 🧠 Model Performance
+## Model Performance
 
 | Model               | Accuracy |
 |--------------------|----------|
@@ -50,13 +50,13 @@ Files used:
 
 ---
 
-## ✅ Final Output
+## Final Output
 
 The `submission.csv` file contains predicted survival values for passengers in the test set using the best-performing model.
 
 ---
 
-## 📌 How to Run
+## How to Run
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com/)
 2. Upload `train.csv` and `test.csv`
